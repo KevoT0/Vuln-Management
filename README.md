@@ -1,18 +1,16 @@
 # Vuln-Management
 
-# Setting up Active directory and Creating a Group Policy in the Cloud</h2>
+# <h2> Comprehensive Vulnerability Assessment & Remediation Using Nessus and Action1</h2>
 
 <h2>Description</h2>
-This Project shows detailed steps taken to perform a Vulnerability scan using Nessus .  
+This project demonstrates a step-by-step vulnerability assessment and remediation process using Nessus and Action1 in a virtualized lab environment. A Windows VM was scanned for security vulnerabilities with Nessus, identifying potential risks. The findings were validated against the NIST National Vulnerability Database (NVD) to assess severity using CVSS scores. Action1 was then utilized for endpoint management and remediation, including the removal of vulnerable applications. This hands-on project highlights expertise in vulnerability management, risk assessment, and endpoint security, essential for securing enterprise environments.  
 <br />
 
+<h2>Technologies and Tools Used</h2>
 
-<h2>Languages and Utilities Used</h2>
-
-- <b> Windows VM </b> 
-- <b> Kali VM </b>
-- <b> Nessus </b>
-- <b> Action 1 </b>
+- <b> Operating Systems: Windows VM, Kali Linux VM <b>
+- <b> Security & Audit Tools: Nessus, Action1 <b>
+- <b> Virtualization Platform: VirtualBox <b> 
 
 <h2>Environments Used </h2>
 
