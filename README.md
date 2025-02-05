@@ -83,22 +83,12 @@ Finished remediation notification from Action 1<br/>
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/90Ntazy.png" height="80%" width="80%" alt="Azure AD"/>
+<img src="https://i.imgur.com/cYRK99J.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
 <br />
 New Endpoint Overview<br/>
 <img src="https://i.imgur.com/UdLmfPu.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
-<br />
-Assigned Policies <br/>
-<img src="https://i.imgur.com/mNzrnUL.jpeg" height="80%" width="80%" alt="Azure AD"/>
-<br />
-<br />
-Assigning Complexity requirement <br/>
-<img src="https://i.imgur.com/py9fkTl.jpeg" height="80%" width="80%" alt="Azure AD"/>
-<br />
-<br />
-Assigned Policies <br/>
-<img src="https://i.imgur.com/mNzrnUL.jpeg" height="80%" width="80%" alt="Azure AD"/>
+
 <br />
 </p>
