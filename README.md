@@ -47,32 +47,35 @@ Target endpoint viewed in Action 1<br/>
 <img src="https://i.imgur.com/6P05Ucb.png" height="80%" width="80%" alt="Vul-Management"/>
 <br />
 <br />
-Installation of AD DS<br/>
-<img src="https://i.imgur.com/kpJjBMV.jpeg" height="80%" width="80%" alt="Vul-Management"/>
+Endpoint Vulnerabilities<br/>
+<img src="https://i.imgur.com/tDiMlEX.png" height="80%" width="80%" alt="Vul-Management"/>
 <br />
 <br />
-Configuration of Domain Controller <br/>
-<img src="https://i.imgur.com/qPCXCHz.jpeg" height="80%" width="80%" alt="Vul-Management"/>
+The vulnerabilitity with the Highest CVSS score <br/>
+<img src="https://i.imgur.com/tV43yA8.png" height="80%" width="80%" alt="Vul-Management"/>
 <br />
 <br /> 
-Installation of configured Domain Controller <br/>
-<img src="https://i.imgur.com/7bLie67.jpeg" height="80%" width="80%" alt="Azure AD"/>
+CVSS check with NIST NVD <br/>
+<img src="https://i.imgur.com/WL6Gzee.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
 <br />
-Creating a New policy with Group Policy Management <br/>
-<img src="https://i.imgur.com/r2mGVB7.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Remediation Process (Uninstalling)<br/>
+<img src="https://i.imgur.com/14UVanO.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
 
 <br/>
-<img src="https://i.imgur.com/S8XUPJj.jpeg" height="80%" width="80%" alt="Azure AD"/>
+<img src="https://i.imgur.com/hy2Y8bX.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
 <br />
-Assigning Password Age <br/>
-<img src="https://i.imgur.com/NHNEGi3.jpeg" height="80%" width="80%" alt="Azure AD"/>
+<img src="https://i.imgur.com/TTRG58T.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
 <br />
-Assigning Password length <br/>
-<img src="https://i.imgur.com/7kA6sQ3.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Confirming the uninstallation process on Action 1<br/>
+<img src="https://i.imgur.com/igJhnfs.png" height="80%" width="80%" alt="Azure AD"/>
+<br />
+<br />
+Action 1 notification on the vulnerable system <br/>
+<img src="https://i.imgur.com/eTjXTrO.png" height="80%" width="80%" alt="Azure AD"/>
 <br />
 <br />
 Assigning Complexity requirement <br/>
